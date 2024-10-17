@@ -68,7 +68,6 @@ Ensure you have the following installed:
   - **/models**: Data models.
   - **/viewmodels**: Logic for managing data and user authentication.
   - **/views**: UI components such as login page, task list page, etc.
-- **/assets**: Contains images and fonts for the app.
 
 ## Contribution
 
